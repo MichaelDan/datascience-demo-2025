@@ -6,3 +6,8 @@ this is my porfolio project
 I looked at X, Y, Z
 
 ## Interesting Graph
+
+
+## My Notebook
+
+* [Run my Colab Notebook] (data-science-notebook.ipynb)
